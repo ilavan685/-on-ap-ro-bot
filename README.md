@@ -10,4 +10,4 @@ https://ilavan.com/s/on-ap-3-pha-reno-15kva
 https://ilavan.com/s/on-ap-3-pha-reno-20kva
 https://ilavan.com/s/on-ap-robot-3-pha-20kva
 https://ilavan.com/s/on-ap-3-pha-reno-25kva
-
+https://ilavan.com/s/on-ap-1-pha-reno-818-12-5kva
